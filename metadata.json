@@ -1,0 +1,5 @@
+{
+  "name": "Forge Design-to-Code",
+  "description": "A deterministic, graph-based compiler that transforms UI designs into production-ready React code.",
+  "requestFramePermissions": []
+}
